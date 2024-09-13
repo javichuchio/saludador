@@ -1,0 +1,23 @@
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+button {
+    background-color: blueviolet;
+    color:chartreuse;
+    border:aquamarine;
+    padding: 9px 10px;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+
+button:hover {
+    background-color: crimson;
+}
